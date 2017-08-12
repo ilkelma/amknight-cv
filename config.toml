@@ -1,0 +1,4 @@
+baseURL = "https://cv.amknight.com"
+languageCode = "en-us"
+title = "A.M. Knight's CV/Résumé"
+theme = "modular-cv"

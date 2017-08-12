@@ -1,0 +1,3 @@
+[submodule "themes/modular-cv"]
+	path = themes/modular-cv
+	url = https://github.com/ilkelma/modular-cv.git
